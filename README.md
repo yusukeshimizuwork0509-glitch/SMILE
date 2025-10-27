@@ -1,4 +1,4 @@
-# ERP業務フロー（工事管理）
+# SMILE業務フロー（工事管理）
 
 このリポジトリは、操作マニュアルをMarkdown＋Mermaidで可視化したもの。  
 GitHubはMermaid対応なので、そのまま描画される。
